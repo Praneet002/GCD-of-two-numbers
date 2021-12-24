@@ -15,11 +15,11 @@ To write a program to find the GCD of two numbers using function.
 
 ## Program:
 ```
-/*
+
 Program to find the gcd of two number using function.
 Developed by:Praneet S 
 RegisterNumber:  21500603
-*/
+
 ```
 ~~~
 def gcd_recursive(x,y):
