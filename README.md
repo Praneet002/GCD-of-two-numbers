@@ -21,7 +21,7 @@ Developed by:Praneet S
 RegisterNumber:  21500603
 
 ```
-~~~
+```
 def gcd_recursive(x,y):
     rem = x%y
     if (rem == 0):
@@ -31,10 +31,10 @@ def gcd_recursive(x,y):
 def gcd():
     n,m=int(input()),int(input())
     print("GCD of two numbers is:", gcd_recursive(n,m))
-    ~~~
+```
 
 ## Output:
-![gcd of two number](https://github.com/Praneet002/GCD-of-two-numbers/blob/main/gcd.png?raw=true)
+![output](out1.png)
 
 
 ## Result:
